@@ -1,0 +1,8 @@
+{
+  "name": "session-usage",
+  "version": "1.0.0",
+  "description": "Shows the session's context window fill above the prompt, as a percentage and a bar split by category",
+  "author": { "name": "Dan Saksa" },
+  "repository": "https://github.com/danhere/session-usage",
+  "types": "./types/index.d.ts"
+}

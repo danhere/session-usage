@@ -1,0 +1,6 @@
+{
+  "name": "session-usage",
+  "description": "A Claude Code mod that shows context window usage above the prompt",
+  "owner": { "name": "Dan Saksa" },
+  "plugins": [{ "name": "session-usage", "source": "./" }]
+}
