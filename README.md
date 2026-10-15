@@ -1,5 +1,9 @@
 # session-usage
 
+I got annoyed at Anthropic's poor design choice here to remove session context so this is my attempt to restore it.
+
+![The session-usage band above the prompt in the Claude desktop app, showing 19% and a bar split by category](docs/screenshot.png)
+
 A Claude Code mod that shows how full the session's context window is, in a slim band
 above the prompt: the percentage, then a bar split into the same colored segments the
 desktop app's context menu uses (Messages, System tools, MCP tools, Memory files, and
